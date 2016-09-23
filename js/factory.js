@@ -182,7 +182,7 @@ myApp.factory('siteContent', [function(){
 			'color' :{'':'All Colors','silver':'Silver','gold':'Gold','space gray':'Space Gray','rose gold':'Rose Gold','black':'Black','blue':'Blue','yellow':'Yellow'}
 		},
 		{
-			'category' : {'':'All Categories','laptop':'Laptops','desktop':'Desktops','tablet':'Tablets','mobile':'Mobiles','watch':'Watches','tv':'Apple Tv'}
+			'category' : {'':'All Categories','laptop':'Laptops','desktop':'Desktops','tablet':'Tablets','mobile':'Mobiles','watch':'Watches','tv':'Tv'}
 		}
 	];
 	return content;
